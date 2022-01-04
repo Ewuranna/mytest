@@ -1,0 +1,7 @@
+button{
+    padding: 7px 14px;
+    box-shadow: inset;
+  background-color: black;
+  color: white;
+  text-transform: capitalize;
+}
